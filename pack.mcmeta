@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "description": {
+            "text": "一个扫地机器人数据包",
+            "color": "#00ffd0"
+        },
+        "min_format": 4,
+        "max_format": 9999,
+        "supported_formats": [4, 9999],
+        "pack_format": 4
+    }
+}
