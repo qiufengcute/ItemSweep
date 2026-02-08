@@ -1,2 +1,0 @@
-# ItemSweep
-This project adds a feature to Minecraft that automatically clears dropped items at set intervals.
