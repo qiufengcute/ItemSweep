@@ -1,0 +1,12 @@
+{
+  "_fv": 79,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "Sweep Interval Seconds",
+    "description": "How many seconds apart should each cleanup occur (cleanup prompts appear at 30, 10, 5, 3, 2, 1 seconds, and when the cleanup is complete)",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 120
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "gamerule.sweepIntervalSeconds.description": "每次清理之间应该间隔多少秒(清理提示出现在 30,10,5,3,2,1 秒,以及清理完成时)",
+  "gamerule.sweepIntervalSeconds": "清理间隔秒数",
+  "sweep.remaining": "秒后清理掉落物!",
+  "sweep.end": "掉落物清理完成!"
+}

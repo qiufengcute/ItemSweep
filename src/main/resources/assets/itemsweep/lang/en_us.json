@@ -1,0 +1,6 @@
+{
+  "gamerule.sweepIntervalSeconds.description": "How many seconds apart should each cleanup occur (cleanup prompts appear at 30, 10, 5, 3, 2, 1 seconds, and when the cleanup is complete)",
+  "gamerule.sweepIntervalSeconds": "Sweep Interval Seconds",
+  "sweep.remaining": "second remaining to clear dropped items!",
+  "sweep.end": "Loot cleanup complete!"
+}
