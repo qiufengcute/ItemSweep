@@ -1,5 +1,7 @@
 # Item Sweep Monorepo
 
+![Icon](./ItemSweepIcon.png)
+
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.13%2B-blue)
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/item-sweep?color=00AF5C&label=Modrinth&logo=modrinth)](https://modrinth.com/mod/item-sweep)
